@@ -5,7 +5,7 @@
 }
 
 .header{  
-     background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.022)),url('../images/frontpage.jpeg');
+     background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.022)),url('images/hero-img.jpeg');
     background-size: cover;
  background-attachment: fixed;
     background-repeat: no-repeat;
